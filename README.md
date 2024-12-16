@@ -13,11 +13,11 @@
 
 
 ## Vízszintes vonalak
-## ----------
+ ----------
 
 
 ## Hangsúlyozás
-## ----------
+----------
 
 **Félkövér**
 
@@ -31,7 +31,7 @@ _Dőlt másként_
 
 
 ## Blokkok
-## ----------
+ ----------
 
 >Első idézet...
 >>Bágyazott blokk
@@ -39,7 +39,7 @@ _Dőlt másként_
 
 
 ## Listák
-## ----------
+----------
 
 #### Felsorolás
 
@@ -66,7 +66,7 @@ Számozás indítása más kezdettel:
 
 
 ## Kód
-## ----------
+ ----------
 
 Soron belül `code`
 
@@ -114,7 +114,7 @@ Jobbra igazított táblázat
 
 
 ## Linkek
-## ----------
+ ----------
 
 [Aqua](http://aqua.hu)
 
