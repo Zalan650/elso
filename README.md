@@ -129,12 +129,12 @@ Jobbra igazított táblázat
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 
-[Emoji](https://github.com/markdown-it/markdown-it-emoji) 
+### [Emoji](https://github.com/markdown-it/markdown-it-emoji) 
 
 > Jelek: :tada: :rotating_light: :zap: :apple:
 
 
-[Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
+### [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
 
 Forgalomirányító protokollok:  
 * RIP[^1]
