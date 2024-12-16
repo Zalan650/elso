@@ -17,7 +17,7 @@
 
 
 ## Hangsúlyozás
-----------
+
 
 **Félkövér**
 
@@ -31,7 +31,7 @@ _Dőlt másként_
 
 
 ## Blokkok
- ----------
+
 
 >Első idézet...
 >>Bágyazott blokk
@@ -39,7 +39,7 @@ _Dőlt másként_
 
 
 ## Listák
-----------
+
 
 #### Felsorolás
 
@@ -66,7 +66,7 @@ Számozás indítása más kezdettel:
 
 
 ## Kód
- ----------
+
 
 Soron belül `code`
 
@@ -107,20 +107,20 @@ print("Vége")
 Jobbra igazított táblázat
 
 |Gyümölcs | Mennyiség |
-|---------|-----------|
+|---------:|-----------:|
 |alma   |10 kg
 |körte |20 kg
 |banán |30 kg
 
 
 ## Linkek
- ----------
 
-[Aqua](http://aqua.hu)
 
-[Media Markt](http://mediamarkt.hu/) MediaMarkt Magyarország
+* [Aqua](http://aqua.hu)
 
-[Automatikus link](https://arpadszki.hu)
+* [Media Markt](http://mediamarkt.hu/ "MediaMarkt Magyarország")
+
+* Automatikus link https://arpadszki.hu
 
 
 ## Képek
